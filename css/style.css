@@ -940,7 +940,7 @@ a.agilebtn {
 /*-- //contact --*/
 /*-- subscribe --*/
 .subscribe {
-    background: url(../images/banner1.JPG) center;
+    background: url(./image/banner1.JPG) center;
     color:#e8870b;
     background-size: cover;
 	background-attachment: fixed;
