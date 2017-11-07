@@ -1,9 +1,4 @@
-/*--Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
- --*/
-/*-- Reset Code --*/
+
 body { 
 	padding: 0;
 	margin: 0;
@@ -989,42 +984,7 @@ a.agilebtn {
 	margin:0 auto;
 }
 /*-- //subscribe --*/ 	
-/*-- footer --*/
-.footer {
-    background: url(../images/banner1.jpg)no-repeat center bottom fixed;
-    background-size: cover;
-    padding: 5em 0 0;
-}
-.footer h3.w3ltitle {
-    color: #fff;
-    text-align: center;
-}
-.footer-agileinfo {
-    margin-top: 4em;
-}
-.footer-left {
-    text-align: right;
-    padding-right: 2em !important;
-}
-.footer-left h5 {
-    font-size: 1.5em;
-    letter-spacing: 2px;
-    font-family: 'Abel', sans-serif;
-}
-.footer-left h5 a{
-	color: #fff;
-}
-.footer-left h5 a:hover{
-	color: #fff;
-}
-.footer-left .w3ls-more {
-    margin-top: 4em;
-    border: 1px solid #fff;
-    background: none;
-}
-.footer-left .w3ls-more:hover {
-    background-color: #ff2f68;
-}
+
 /*-- copy-right --*/
 .copy-right {
     padding: 2em 0;
