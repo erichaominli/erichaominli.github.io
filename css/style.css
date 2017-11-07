@@ -59,7 +59,7 @@ p {
 }
 /*-- header styling starts here --*/
 .main_background{
-	background:url(../images/background.JPG) no-repeat center;
+	background:url(../images/background.jpg) no-repeat center;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
