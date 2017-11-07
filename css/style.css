@@ -777,10 +777,10 @@ a.agilebtn {
 /*-- section --*/ 
 .section {
 	text-align: center;
-	background:-webkit-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/IMG_0901.jpg) no-repeat  center fixed;
-	background:-moz-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/IMG_0901.jpg) no-repeat  center fixed;
-	background:-ms-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/IMG_0901.jpg) no-repeat  center fixed;
-	background:linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/IMG_0901.jpg) no-repeat  center fixed;
+	background:-webkit-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/section.jpg) no-repeat  center fixed;
+	background:-moz-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/section.jpg) no-repeat  center fixed;
+	background:-ms-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/section.jpg) no-repeat  center fixed;
+	background:linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/section.jpg) no-repeat  center fixed;
 	background-size: cover;
 }
 .section p {
