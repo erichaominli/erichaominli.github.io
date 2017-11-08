@@ -772,10 +772,10 @@ a.agilebtn {
 /*-- section --*/ 
 .section {
 	text-align: center;
-	background:-webkit-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/section.jpg) no-repeat  center fixed;
-	background:-moz-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/section.jpg) no-repeat  center fixed;
-	background:-ms-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/section.jpg) no-repeat  center fixed;
-	background:linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/section.jpg) no-repeat  center fixed;
+	background:-webkit-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(./image/section.jpg) no-repeat  center fixed;
+	background:-moz-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(./image/section.jpg) no-repeat  center fixed;
+	background:-ms-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(./image/section.jpg) no-repeat  center fixed;
+	background:linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(./image/section.jpg) no-repeat  center fixed;
 	background-size: cover;
 }
 .section p {
@@ -940,7 +940,7 @@ a.agilebtn {
 /*-- //contact --*/
 /*-- subscribe --*/
 .subscribe {
-    background: url(./image/banner1.JPG) center;
+    background: url(./image/banner1.jpg) center;
     color:#e8870b;
     background-size: cover;
 	background-attachment: fixed;
