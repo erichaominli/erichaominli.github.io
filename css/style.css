@@ -939,67 +939,40 @@ a.agilebtn {
    color:#fff;
 }
 /*-- //contact --*/
-/*-- subscribe --*/
-.subscribe {
+/*-- motto --*/
+.motto {
     background: url(./image/banner1.jpg) center;
     color:#e8870b;
+    padding: 40px;
     background-size: cover;
 	background-attachment: fixed;
 }
-.subscribe_content input[type="email"] {
-	width: 69.3%;
-	padding: .8em 1em;
-	font-size: 1em;
-	font-weight: 400;
-	border: none;
-	outline: none;
-	margin: 0;
-	-webkit-appearance: none;
-	background: #fff;
-	color:#000;
-}	
-.subscribe_content input[type="submit"]{
-	background: #e8870b;
-	cursor: pointer;
-	border: 0;
-	color: #fff;
-	font-weight: 400;
-	font-size: 1em;
-	text-transform: uppercase;
-	padding: .8em 1em;
-	text-align: center;
-	-webkit-appearance: none;
-	outline: none;
-	width:30%;
-	transition: 0.5s all;
-	-webkit-transition: 0.5s all;
-	-moz-transition: 0.5s all;
-	-o-transition: 0.5s all;
-	-ms-transition: 0.5s all;
+.motto-title{
+    margin-top: 10px;
+    margin-bottom: -20px;
 }
-.subscribe_content input[type="submit"]:hover{
-	background:#00BCD4;
+.motto-text {
+    color: azure;
+    font-family:sans-serif;
+    font-size: 20px;
 }
-.subscribe_content {
-    width:50%;
-	margin:0 auto;
-}
-/*-- //subscribe --*/ 	
 
-/*-- copy-right --*/
-.copy-right {
-    padding: 2em 0;
+/*-- //motto --*/ 	
+
+/*-- design --*/
+.design {
+    padding: 3em 0;
     text-align: center;
     background: #000;
 }
-.copy-right p {
+.design p {
 	 color: #fff;
 	 padding: 1em 0 0;
 }
-.copy-right a {
+.design a {
 	 color: #fff;
 } 
-.copy-right a:hover {
+.design a:hover {
     color:#00BCD4;
 }
 /*-- social-icons --*/
