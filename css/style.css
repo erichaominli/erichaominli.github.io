@@ -54,7 +54,7 @@ p {
 }
 /*-- header styling starts here --*/
 .main_background{
-	background:url(./image/background.JPG) no-repeat center;
+	background:url(../images/snow.jpg) no-repeat center;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -62,8 +62,9 @@ p {
 	-ms-background-size:cover;
 }
 .main_title{
-	padding: 4em 0 0;
+	padding: 10em 0 0;
 }
+
 .main_title h1 a{
 	font-size: 1.5em;
 	letter-spacing: 6px;
@@ -422,10 +423,10 @@ span.menu {
 	background: url(../images/toureast.jpg) center;
 }
 .img3 {
-	background: url(../images/workplace.jpg) center;
+	background: url(../images/project.png) center;
 }
 .img4 {
-	background: url(../images/tennis.JPG) center; 
+	background: url(../images/launchkey.png) center; 
 }
 .img5 {
 	background: url(../images/DP.jpg) center;
@@ -941,6 +942,7 @@ a.agilebtn {
 /*-- //contact --*/
 /*-- subscribe --*/
 .subscribe {
+	margin-top: 50px;
     background: url(./image/banner1.jpg) center;
     color:#e8870b;
     background-size: cover;
